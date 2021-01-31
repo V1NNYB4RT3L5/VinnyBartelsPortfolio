@@ -1,6 +1,6 @@
 # Vinny Bartels.<br/>
 ## MyType. 
-<img src=https://github.com/V1NNYB4RT3L5/VinnyBartelsPortfolio/blob/main/MYTYPEfinal.gif><br/>
+<img src=https://github.com/V1NNYB4RT3L5/VinnyBartelsPortfolio/blob/main/Screen%20Shot%202020-10-16%20at%204.52.53%20pm.png><br/>
 MyType is an interactive typeface generator that determines its parameters on
 the basis of answers to a survey of personal questions input by the user. One pre-existing
 typeface is correlated with each possible answer, and each question is aligned with one
